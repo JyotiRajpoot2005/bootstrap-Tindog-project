@@ -1,1 +1,1 @@
-# bootstrap-Tindog-project
+# bootstrap-projects
